@@ -1,0 +1,39 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.base.jar:/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.controls.jar:/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.fxml.jar:/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.graphics.jar:/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.media.jar:/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.properties.jar:/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.swing.jar:/private/var/folders/mm/gjr93t717jb9k_pltwdm6k2c0000gr/T/AppTranslocation/D38B710A-82A4-4887-8C6A-3F05E6E0330A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.web.jar:/Users/sandy/Downloads/name
+-d
+/Users/sandy/Downloads/name/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/sandy/Downloads/name/main.java
+<---- end of javadoc command ---->
+Loading source file /Users/sandy/Downloads/name/main.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating /Users/sandy/Downloads/name/doc/main.html...
+/Users/sandy/Downloads/name/main.java:26: warning - @param argument "y" is not a parameter name.
+/Users/sandy/Downloads/name/main.java:29: warning - @return tag cannot be used in method with void return type.
+Generating /Users/sandy/Downloads/name/doc/package-summary.html...
+Generating /Users/sandy/Downloads/name/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/sandy/Downloads/name/doc/allclasses.html...
+Generating /Users/sandy/Downloads/name/doc/allclasses.html...
+Generating /Users/sandy/Downloads/name/doc/index.html...
+2 warnings
